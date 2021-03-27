@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <remove msel='/stocks/stock[@id="default_trader"]/ware[contains(@ref, "inv_seminar_piloting_")]' />
+  <add sel='/stocks/stock[@id="default_trader"]'>
+    <ware ref="inv_seminar_piloting_0" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_piloting_1" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_piloting_2" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_piloting_3" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_piloting_4" min="100" max="100" chance="100"/>
+  </add>
+
+  <remove msel='/stocks/stock[@id="default_trader"]/ware[contains(@ref, "inv_seminar_management_")]' />
+  <add sel='/stocks/stock[@id="default_trader"]'>
+    <ware ref="inv_seminar_management_0" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_management_1" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_management_2" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_management_3" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_management_4" min="100" max="100" chance="100"/>
+  </add>
+
+  <remove msel='/stocks/stock[@id="pirate_trader"]/ware[contains(@ref, "inv_seminar_piloting_")]' />
+  <add sel='/stocks/stock[@id="pirate_trader"]'>
+    <ware ref="inv_seminar_piloting_0" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_piloting_1" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_piloting_2" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_piloting_3" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_piloting_4" min="100" max="100" chance="100"/>
+  </add>
+
+  <remove msel='/stocks/stock[@id="pirate_trader"]/ware[contains(@ref, "inv_seminar_management_")]' />
+  <add sel='/stocks/stock[@id="pirate_trader"]'>
+    <ware ref="inv_seminar_management_0" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_management_1" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_management_2" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_management_3" min="100" max="100" chance="100"/>
+    <ware ref="inv_seminar_management_4" min="100" max="100" chance="100"/>
+  </add>
+</diff>

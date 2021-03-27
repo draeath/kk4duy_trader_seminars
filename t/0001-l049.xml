@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <replace sel='/language[@id=49]/page[@id="20226"]/t[@id="1"][contains(text(),"Grundlagenseminar")]' >
+    <t id="1">Seminar für Crew mit 0 Sternen</t>
+  </replace>
+</diff>
