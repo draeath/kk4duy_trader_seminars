@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="ws_2436999794" name="Trader Seminars" description="Modifies trader stocks to include all pilot/management seminars.&#10;&#10;This also renames the basic/advanced seminars so that they sort appropriately.&#10;&#10;Prices are unchanged." author="draeath" version="101" date="2021-03-27" enabled="1" sync="false" lastupdate="1616870303">
+<content id="ws_2436999794" name="Trader Seminars" description="Modifies trader stocks to include all pilot/management seminars.&#10;&#10;This also renames the basic/advanced seminars so that they sort appropriately.&#10;&#10;Prices are unchanged." author="draeath" version="102" date="2021-04-01" enabled="1" sync="false" save="false" lastupdate="1617317841">
   <text language="44" name="Trader Seminars" description="Modifies trader stocks to include all pilot/management seminars.&#10;&#10;This also renames the basic/advanced seminars so that they sort appropriately.&#10;&#10;Prices are unchanged." author="draeath"/>
   <text language="49" name="Händlerseminare" description="Ändert die Händlerbestände so, dass sie alle Pilot- und Managementseminare umfassen.&#10;&#10;Dadurch wird auch das Basicseminar umbenannt, damit es entsprechend sortiert wird.&#10;&#10;Die Preise bleiben unverändert." author="draeath"/>
 </content>
