@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <replace sel='/language[@id=7]/page[@id="20226"]/t[@id="1"][contains(text(),"Базовый семинар")]' >
+    <t id="1">Семинар для 0-зв. персонала</t>
+  </replace>
+  <replace sel='/language[@id=7]/page[@id="20226"]/t[@id="5"][contains(text(),"Улучш. семинар для 4-зв. персонала")]' >
+    <t id="5">Семинар для 4-зв. персонала</t>
+  </replace>
+</diff>
